@@ -52,6 +52,12 @@ lgoritmo funcionesprededefinida
 	escribir"absolute of 12",ab (12)
 FinAlgoritmo
 
+Algoritmo funcionesprededefinida
+     escribir"trunc" ( 11-12)
+	 escribir"trunc " ( 11-12)
+	 escribir "trunc" (123.43211)
+FinAlgoritmo
+
    
 
 
