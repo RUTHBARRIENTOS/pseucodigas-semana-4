@@ -46,7 +46,13 @@ lgoritmo parOimpar
 	FinPara
 	si contar % 2 = 1 para Entonces
 		FinPara
-			
+  
+lgoritmo funcionesprededefinida
+     escribir"absaolute of 12",ab (12)
+	escribir"absolute of 12",ab (12)
+FinAlgoritmo
+
+   
 
 
 
